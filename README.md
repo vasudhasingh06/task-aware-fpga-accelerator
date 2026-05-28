@@ -1,12 +1,12 @@
-\#Design of a Systolic Array-Based FPGA Accelerator for Task-Aware Object Detection on Edge Devices
+\**Design of a Systolic Array-Based FPGA Accelerator for Task-Aware Object Detection on Edge Devices**
 
 
 A research-oriented multimodal affordance reasoning pipeline designed for intelligent task-aware object selection on edge devices. Unlike conventional object detection systems, the proposed architecture performs semantic reasoning to determine the most suitable object for a given task using contextual affordance scoring, transformer-based embeddings, and FPGA-aware systolic similarity computation.
 
 
 
-\## Architecture Overview
-
+\**Architecture Overview
+**
 
 
 The pipeline consists of a 9-stage embedded AI workflow:
@@ -51,7 +51,7 @@ The system integrates:
 
 
 
-\## Implemented Tasks
+\ **Implemented Tasks**
 
 
 
@@ -85,7 +85,7 @@ The system integrates:
 
 
 
-\## Technologies Used
+\**Technologies** **Used**
 
 
 
@@ -105,7 +105,7 @@ The system integrates:
 
 
 
-\## Run Procedure
+\# Run Procedure
 
 
 
@@ -169,8 +169,8 @@ python pipeline.py image.jpg --task 1 --tasks
 
 
 
-\## Experimental Outcomes
-
+\ **Experim****ental Outcomes
+**
 
 
 \* Overall task-selection accuracy: \~84%
@@ -183,8 +183,8 @@ python pipeline.py image.jpg --task 1 --tasks
 
 
 
-\## Key Contributions
-
+\ **Key Contributions
+**
 
 
 \* Task-aware multimodal affordance reasoning
