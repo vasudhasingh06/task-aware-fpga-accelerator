@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.onnx
+*.jpg
+*.png
+outputs/
+runs/
+.env
+venv/
+.idea/
+.vscode/
